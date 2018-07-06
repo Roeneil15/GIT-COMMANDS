@@ -1,0 +1,28 @@
+cd 
+cd ..
+pwd
+ls -a ---- list
+mkdir ---- make directory
+ls -al
+cp <File name> <Documents>
+cp -r ---- copy   
+touch --- create a file
+rm --- remove
+mv --- move
+echo --- display a certain string
+date
+git init
+git remote add origin <URL>
+git config --global user.name
+git config --global user.email
+git clone <URL>
+git add --- adds all new files
+git add -u --- updates tracking for files
+git add -a --- does both
+git commit --- message
+git push
+
+git Data Transport Command
+push
+pull
+fetch
